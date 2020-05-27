@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Kamasutra|Sex Position</string>
+    <string name="app_name">Ayurvedic</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Kamasutra | Sex Position</string>
+    <string name="nav_header_title">Ayurvedic</string>
    <!-- <string name="nav_header_subtitle">android.studio@android.com</string>-->
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Help</string>
@@ -14,572 +14,203 @@
     <string name="menu_share">Share</string>
     <string name="menu_send">Rate us</string>
 
-    <string name="intro_duction_1">What is Sex Position?</string>
-    <string name="kama_intro">"What Is Kama Sutra? More Than Just Spicy Sex Positions"</string>
-    <string name="better_sex_food">"10 foods for great sex"</string>
+    <string name="alovera">"ALovera \n\n What are the benefits of aloe vera?"</string>
+    <string name="tusli">"Tusli \n\n The Health Benefits of Holy Basil"</string>
+    <string name="tulsi_details">"Tulsi or Holy basil is a widely known herb in the family Lamiaceae. It is native to India and vastly cultivated throughout Southeast Asia.
 
-    <string name="po_1">Sex Position: Yourself on the Shelf </string>
-    <string name="po_2">Sex Position: The Socket</string>
-    <string name="po_3">Sex Position: Standing O</string>
-    <string name="po_4">Sex Position: The Little Dipper</string>
-    <string name="po_5">Sex Position: The 69 Bridge</string>
-    <string name="po_6">Sex Position: The Cat </string>
-    <string name="po_7">Sex Position: Waterfall </string>
-    <string name="po_8">Sex Position: One Up</string>
-    <string name="po_9">Sex Position: The Cowgirl </string>
-    <string name="po_10">Sex Position: The Hot Seat</string>
-    <string name="po_11">Sex Position: Spin Cycle </string>
-    <string name="po_12">Sex Position: Stairway to Heaven</string>
-    <string name="po_13">Sex Position: Reverse Cowgirl </string>
-    <string name="po_14">Sex Position: Pole Position </string>
-    <string name="po_15">Sex Position: Face Off</string>
+Tulsi has proved to be highly effective in protecting our body from various infections and diseases of heart, liver, skin, kidney etc. [1]So, Tulsi is rightly called the ‘Queen of Herbs’.
 
-    <string name="po_16">Sex Position: The Lazy Man </string>
+Tulsi has a special place in Ayurveda as well as the home of Hindus in India. It is considered sacred by Hindus and worshipped by them. Three main types of Tulsi are seen growing in India:
 
-    <string name="po_17">Sex Position: David Copperfield </string>
-    <string name="po_18">Sex Position: Heir to the Throne</string>
-    <string name="po_19">Sex Position: Closed for Business</string>
-    <string name="po_20">Sex Position: The Pretzel </string>
-    <string name="po_21">Sex Position: The G-Whiz  </string>
-    <string name="po_22">Sex Position: Man\'s Best Friend</string>
-    <string name="po_23">Sex Position: The Flatiron </string>
-    <string name="po_24">Sex Position: Butter Churner </string>
-    <string name="po_25">Sex Position: The Ballet Dancer</string>
-    <string name="po_26">Sex Position: Stand and Deliver</string>
-    <string name="po_27">Sex Position: Iron Chef </string>
-    <string name="po_28">Sex Position: H2Ohh Yeah </string>
-    <string name="po_29">Sex Position: Wheelbarrow, Standing</string>
-    <string name="po_30">Sex Position: Seated Wheelbarrow </string>
-    <string name="po_31">Sex Position: The Standing Dragon</string>
-    <string name="po_32">Sex Position: Restroom Attendant </string>
-    <string name="po_33">Sex Position: Couch Surfer</string>
-    <string name="po_34">Sex Position: Quickie-Fix</string>
-    <string name="po_35">Sex Position: Mountain Climber</string>
-    <string name="po_36">Sex Position: Quicker Picker Upper </string>
-    <string name="po_37">Sex Position: Missionary </string>
-    <string name="po_38">Sex Position: Spoon</string>
-    <string name="po_39">Sex Position: Spork </string>
-    <string name="po_40">Sex Position: Gift Wrapped</string>
-    <string name="po_41">Sex Position: Spoon, Facing</string>
-    <string name="po_42">Sex Position: The X Position </string>
-    <string name="po_43">Sex Position: Snow Angel</string>
-    <string name="po_44">Sex Position: The Fusion</string>
-    <string name="po_45">Sex Position: The Spider</string>
-    <string name="po_46">Sex Position: Hovering Butterfly </string>
-    <string name="po_47">Sex Position: Sixty Nine </string>
-    <string name="po_48">Sex Position: The Face Sitter</string>
-    <string name="po_49">Sex Position: The Elevator</string>
-    <string name="po_50">Sex Position: Swiss Ball Blitz</string>
-    <string name="intro_sex_des">"Every couple wants to get the best out of the sex they have, and accomplish mutual pleasure. Nevertheless, time and time again, men end up finishing his fun during sex way before women really begins to enjoy the intimacy. Don’t fret, as there are certain sex positions which will give both of you the intimacy at the same time, increasing her pace and slowing him down. Even Durex can help you in this department – our Mutual Climax condoms come with ribs on the outside to speed her up, and benzoclaine lube on the inside, which will slow him down.
-Trying different sex positions can add a spark to your sex life. If you believe you and your partner have identified the best sex style, think again. There are so many sex positions you may have never tried, and different sex styles can stimulate different parts of your body. From old school positions like cowgirl and missionary sex position, to new age fantasizes like the cross, below mentioned are top 50 sex positions that will help you achieve mutual climax with your partner."</string>
-    <string name="kamsutra_des">"In the West, “Kama Sutra” seems to be synonymous with contortionist sex positions — ones that combine acrobatics, yoga, and perhaps primeval pornography.
+    Bright green leaves called Ram Tulsi
+    Purplish green leaves called Krishna Tulsi
+    Common wild Vana Tulsi.
 
-Well, this is only partially true.
+Nutritional Value:
 
-Actually, the Kama Sutra covers a lot more than meets the Western eye, and to call the Kama Sutra a book of spicy sex positions is doing this sacred, ancient Hindu text a huge disservice.
+Tulsi leaves are rich in vitamins A, C and K and minerals like calcium, magnesium, phosphorus, iron and potassium. It also has a good amount of protein and fibre.
+11 Research-Backed Benefits of Tulsi are:
 
-Here’s why,
+    Natural Immunity Booster:
 
-It’s not fancy positions that turn everyday sex into tantric, sacred, lovemaking — that’s only really about 20% of it. True, sacred lovemaking is mostly about spirit and connection, which is precisely why the sexual positions only make up about 20% of the Kama Sutra.
+Tulsi is rich in Vitamin C and zinc. It thus acts as a natural immunity booster and keeps infections at bay. It has immense anti-bacterial, anti-viral and anti-fungal properties which protect us from a variety of infections. Tulsi leaves extract increases the T helper cells and natural killer cells activity, boosting the immune system.[2]
 
-The rest of this sacred text is a guide on the Art of Love and Living Virtuously; including, but certainly not limited to:
+Also Read: 7 Tips to Boost Immunity.
 
-    1.The philosophy and nature of love
-    2.Family life
-    3.What triggers desire (and what sustains it)
-    4.Etiquett
-    5.Self-care
-    6.Proper grooming
-    7.The practice of various arts, such as perfume mixing, poetry, and cooking
-    8.Balancing feminine and masculine energies (in oneself and within a partnership)
-    9.Many other faculties of (non-sexual) pleasure-oriented facets of life
+    Reduces Fever (antipyretic) &amp; Pain(analgesic):
 
-        What Is Kamasutra?
+Tulsi has anti-bacterial and anti-viral properties which help to fight infections, thus reducing fever. The fresh juice of Tulsi taken with black pepper powder cures periodic fevers. Tulsi leaves boiled with powdered cardamom(elaichi) in half a litre of water and mixed with sugar and milk, is also effective in reducing temperature. [3]
 
-So, exactly what is Kamasutra?
+Eugenol, a terpene with pain-relieving properties found in Tulsi reduces aches in the body.
 
-The word “Kamasutra” comes from two different Sanskrit words — “kama” and “sutra”. Each word has a definite meaning. Combined, the two meanings make up the premise of the book.
+    Reduces Cold, Cough &amp; Other Respiratory Disorders:
 
-The etymology of Kama Sutra: The most thrilling way to dissect words to gather meaning!
-Kama
+Camphene, cineole, and eugenol present in Tulsi helps to reduce cold and congestion in the chest.
 
-The word “kama” in Sanskrit means desire and is made up of both sensual and aesthetic desires. However, in regard to the Kamasutra, an emphasis is placed on sensual desire.
+Juice of Tulsi leaves mixed with honey and ginger is effective in bronchitis, asthma, influenza, cough and cold.[4]
 
-The word kama is the Sanskrit can mean “love,” “desire,” or “pleasure.” This pleasure is not limited to sexual desire, but rather a broad term encompassing all the pleasures of life.
+    Reduces Stress &amp; Blood Pressure:
 
-In most world religions, sexual desire is considered taboo.
+Tulsi contains compounds Ocimumosides A and B. These compounds reduce stress and balance the neurotransmitters serotonin and dopamine in the brain.[5]Anti-inflammatory properties of Tulsi reduce inflammation and blood pressure.[6]
 
-However, Hinduism holds “kama” as one of the Four Goals of Hindu Life. In their goals of life, “kama” is followed by “artha” (abundance, success), “dharma” (virtue, truth), and “moksha” (release).
-Sutra
+    Anti-cancer properties:
 
-“Sutra” in Sanskrit means line or thread. It is the same root as the English word suture, the strands of a line that are used in medicine to seal wounds. However, Sutra here refers to the refers to a thread of verses that form a manual.
-Where Does The Kama Sutra Come From?
+Phytochemicals present in Tulsi have strong antioxidant property. Thus, they help in protecting us from skin, liver, oral and lung cancers.[7]
 
-The Kama Sutra was a book written between 400 – 200 BCE. The Indian philosopher and sage who wrote it, Vātsyāyana Mallanaga, compiled sexual teachings and wisdom as a form of meditation.
+    Good for Heart Health:
 
-He claimed to be a celibate monk and did not record these teachings from personal experience. Rather, he condensed the lessons from the Kamashastra (the Rules of Love), which was composed hundreds of years earlier.
-        "</string>
-    <string name="better_food_des">"How effective these are, is still a big question but there are some natural substances that are believed to increase the desire and libido, in a person, since time immemorial. So here is a list of such foods that may help in bringing a positive change in your sex life.
-Wines
-Drinking wine in itself is an erotic and seductive process. Drinking it helps in lowering inhibitions and make people feel relaxed. Port wines which originate from Portugal is considered to be the most potent aphrodisiac. Not only in men, but wine is known to increase libido in woman aswell.Dr. Sheth says "it may be known as an aphrodisiac because it can decrease resistance from a woman\'s side or put her off her guards." But make sure that you don't drink any alcohol in excess as due to it's sedative properties it will only make you drowsy.
+Tulsi has a profound effect on treatment and prevention of cardiovascular diseases by means of lowering blood lipid content, suppressing ischemia and stroke, reducing hypertension, and also due to its higher antioxidant properties.[8] Read more about tips for a healthy heart.
 
-Bananas
-Not only because of its phallic shape but also due to its innumerable beneficial properties. A banana is packed with vitamin A, B and C and also potassium. Vitsamin B and potassium are known to increase sex hormone production in the body. A banana is also packed with Bromelain which increases the testosterone levels. High levels of sugar present in banana gives energy, which helps to last long.
+    Good for Diabetes Patients:
 
-Oysters
-It’s believed that Aphrodite, rose in an oyester from the sea and gave birth to her son Eros and since then it is considered as an aphrodisiac. Also the oyester when cut open resembles the female genitalia. But the scientific reason behind it, is that oyesters contain high level of zinc which is required for testosterone production. Low level of zinc can cause impotence. So no harm in eating this seafood. Well, it is said that Casanova used to eat more than 50 oyesters a day, and we all know the results.
+Extract of Tulsi leaves has shown to lower blood glucose levels in patients with type 2 Diabetes.[9]
 
-Garlic
-Garlic has allicin which helps in blood circulation. So if there is enough blood going to your groin there surely wouldn’t be any problem related to erection. Studies also show that garlic can stimulate the production of nitric oxide synthase which is responsible for erection. They say that the way to a man’s heart is through his stomach. So, next time you prepare the food put an extra dose of garlic in it.
+    Useful in Kidney stones &amp; Gouty Arthritis:
 
-Avacado
-This is one fruit which has been associated to both female as well as male sexuality. The fruit is voluptuous and feminine in shape but as the fruit hangs in pairs from the tree, they are often said to resemble the male testicles. The Aztecs used to call the avacado tree, the testicle tree. Avacado is a rich source of beta carotene, magnesium, vitamin E, potassium and protiens — all of these are good for your sexual appetite.
+Tulsi detoxifies the body and has diuretic properties. It decreases the level of uric acid in the body, which is the main reason why kidney stones are formed. Reduction in uric acid levels also provides relief to patients suffering from Gout.
 
-Figs
-A fig when cut vertically seems to resmble the female sex organ. Since ancient times it has been associated with fertility. Figs contain vitamin A, vitamin B1, vitamin B2, calcium, iron, phosphorus, manganese, and potassium and these are known to decrease sexual weakness. No wonder, it was Cleopatra’s favourite fruit.
+    Useful in Gastrointestinal Disorders:
 
-Asparagus
-In the 19th century bridegrooms in France were served three courses of asparagus just a day before their marriage. Asparagus is a rich source of potassium, vitamin B6, vitamin A, C, thiamin and folic acid. It is said that folic acid boosts histamine production which help both male and females to reach orgasm. Folic acid also helps in reducing birth defects, so, asparagus is good for a pregnant woman. Asparagus is also known to increase blood circulation in the genito urinary system.
+Tulsi leaves help to cure indigestion and loss of appetite. They are also used for the treatment of flatulence and bloating.
 
-Chocolate
-Also known as the ‘food of the Gods’, chocolate has always been associated with sensuality and love. Phenylethylamine (PEA) and serotonin present in chocolate are also present in our brain and they increase our exitement and energy level. When we eat chocolate the level of both increases and lifts the mood. Anandamide along with PEA helps in reaching orgasm.
+    Good for Skin &amp; Hair:
+
+Tulsi helps clear out the skin of blemishes and acne. It is rich in antioxidants, and that helps it to prevent premature ageing. Tulsi also strengthens our hair roots, thus preventing hair loss.
+
+Antifungal properties of Tulsi prevent the development of fungus and dandruff.
 
 
-Basil
 
-This sweet smelling herb is called ‘kiss me Nicholas’ in Italy. It is believed that basil increases sex drive and fertility. Basil has magnesium, iron, vitamin A, C and K. It relaxes blood vessels and prevents clotting in arteries, hence increases blood circulation. Basil is also known to cure all kinds of ‘headaches’ so, next time if you get this excuse its time to use basil.
+    Acts as an Insect Repellent:
 
+For centuries, the dried Tulsi leaves have been mixed with stored grains to repel insects.
+How to Consume Tulsi?
 
-Chillies
+    Consume Tulsi leaves raw, plucked fresh from the plant, add it in your tea or make kadha out of it.
+    Tulsi tea: To make tulsi tea, boil 1 cup of water and pour it over 1 tsp of fresh tulsi leaves, 1/2 tsp of dried tulsi leaves, or 1/3 tsp of tulsi powder. Cover the water in a pot or mug and let it seep for 15-20 minutes. Then strain the leaves, add honey if desired, and enjoy.
+    Tulsi powders and supplements are also available in the market for consumption.
 
-Now this has to be an aphrodisiac because of its ‘hot’ properties. From bell peppers to the red chillies — all are considered aphrodisiacs. Chillies have capsaicin which increases blood circulation and heartbeats, raises body temperature and also produces sweat. All these symptoms occurs while having sex so this might be another reason for calling it an aphrodisiac. Capsaicin also helps in releasing endorphins and stimulates the nerve endings which makes which increases the pulse and makes the body sensitive.
+Side Effects of Consuming Tulsi That You Must Know:
 
-
-It is said that just believing something as an aphrodisiac is strong enough to sexually arouse a person, or to increase his sex drive, performance and desires. But we think that there is no harm in trying these natural love foods as they surely won’t harm, but do remember that too much of everything is bad!
-
-
+    Tulsi may affect the reproductive capacity of women who are trying to conceive..
+    Some people experience nausea or diarrhoea when they first add tulsi tea to their diet, so its best to start with small quantities and increase your consumption over time.
+    Tulsi may lower blood sugar and should be used with caution in people who have diabetes and are on blood-sugar-lowering medication.
 "</string>
-    <string name="pos_1" formatted="true">"Sex Position: Yourself on the Shelf\n\n"
+    <string name="alovera_details">"Aloe vera is a popular medicinal plant that people have used for thousands of years.
 
-"Benefits: It allows for deeper and harder penetration. Also a higher likelihood of orgasming together than other positions.
+Aloe vera, or Aloe barbadensis, is a thick, short-stemmed plant that stores water in its leaves. It is best known for treating skin injuries, but it also has several other uses that could potentially benefit health.
 
-Technique: Have your partner perch their butt right on the edge of the bed. With you standing in front, you can enter them. Then have them wrap their legs around you. From there, stand up-right, placing your hands around their back to support your partner.
+This article lists eight potential health benefits of aloe vera. It also covers some of the risks associated with use.\n\n
 
-Also Try: If you don’t have the quad and glute muscles to pull this position off, just keep your partner on the edge of the bed, penetrating them there.
+1. It contains healthful plant compounds
+ The cosmetic, pharmaceutical, and food industries use aloe vera extensively, and the plant has an estimated annual market value of $13 billion globally.
 
-Hot Tip: It’s a great way to finish having sex. Since the position is strenuous, try doing it 30-60 seconds before you and your partner are about to orgasm. " </string>
-    <string name="pos_2" formatted="true">
-        "Benefits: If you're into butts, you'll have a great view.
+Aloe vera is known for its thick, pointed, and fleshy green leaves, which may grow to about 12–19 inches (30–50 centimeters) in length.
 
-Technique: From reverse cowgirl, have them bend all the way forward, extending their legs all the way back. They should be supporting their body by resting on their elbows, as if they were holding a plank.
+Each leaf contains a slimy tissue that stores water, and this makes the leaves thick. This water filled tissue is the “gel” that people associate with aloe vera products.
 
-Hot tip: Your partner can easily stimulate their own clitoris while you penetrate them. If the two of you are into spanking, go for it. "</string>
-    <string name="pos_3" formatted="true">"Benefits: Ideal position for all things cunnilingus: clit sucking, rubbing, digital penetration, G-spot stimulation.
+The gel contains most of the beneficial bioactive compounds in the plant, including vitamins, minerals, amino acids, and antioxidants.
 
-Technique: While on your knees have your partner stand up-right. They should then drape one of their legs around your shoulder while you eat them out.
 
-Hot tip: Ideally you want your partner's hands above your head. This can be accomplished through the use of some BDSM restraints. If restraints aren’t their thing, see if you can find an anchored bar or beam for them to grasp."</string>
-    <string name="pos_4" formatted="false">
-       " Benefits: Allows for easy access to both penetrate your partner and stimulate the clitoris manually.
+2. It has antioxidant and antibacterial properties
 
-Technique: FYI, the partner on top will have sore triceps once you both finish. For the Little Dipper, the person on top uses either a bed, couch, or chair to hoist themselves over their partner. The person on bottom then inserts his penis into the top’s vagina or anus. The top then does tricep dips to move up and down on their partner’s penis. If done correctly, you should be in a T-shape formation.
+Antioxidants are important for health. Aloe vera gel contains powerful antioxidants belonging to a large family of substances known as polyphenols.
 
-Hot tip: Play with the top’s penis or clitoris for extra stimulation. "</string>
-    <string name="pos_5" formatted="true">"Also known as: Golden Gate
+These polyphenols, along with several other compounds in aloe vera, help inhibit the growth of certain bacteria that can cause infections in humans.
 
-Technique: This position only works if your mate is particularly flexible and strong. It’s ideal for people who do yoga and are familiar with the pose. A notorious Kama Sutra position, the bridge is a loose variant of the classic 69. While facing towards you, have them “sit on your face,” so to speak, so you’re eating them out. Your mate's legs should be by your side, bent at the knee. From there, have them extender their arms, arch their back, and take you in their mouth.
+Aloe vera is known for its antibacterial, antiviral, and antiseptic properties. This is part of why it may help heal wounds and treat skin problems.
 
-Hot tip: You may need to help out your by thrusting your pelvis up, so their mouth can actually reach your genitals. "</string>
 
-    <string name="pos_6" formatted="false">"Also known as: Coital Alignment Technique
 
-Benefits: Strong clitoral stimulation. In a study published in the Journal of Sex and Marital Therapy, women who were unable to have an orgasm in the missionary position reported a 56 percent increase in orgasm frequency using the coital alignment technique. Other studies suggest even greater success, with up to 73 percent of women achieving orgasm with CAT.
+3. It accelerates wound healing
 
-Technique: The CAT is very similar to the missionary position except your body is positioned farther up and to one side. Instead of being chest to chest, your chest is near your partner's shoulders. Have them bend their legs about 45 degrees to tilt their hips up. This causes the base of your shaft to maintain constant contact with the clitoris.
+People most often use aloe vera as a topical medication, rubbing it onto the skin rather than consuming it. In fact, it has a long history of use in treating sores, and particularly burns, including sunburn.
 
-Also try: Ask your partner to straighten their legs. Push your pelvis down a few inches while they push up.
+The United States Pharmacopeia describe aloe vera preparations as a skin protectant as early as 1810–1820.
 
-Hot tip: Instead of thrusting up and down, rock forward and back to (hopefully) provide enough stimulation for your partner to orgasm. Make this position even better by grinding your pelvis in a circular motion."</string>
-    <string name="pos_7" formatted="true">"Also known as: Head Rush
+Studies suggest that it is an effective topical treatment for first and second degree burns.
 
-Benefits: The blood will rush to your other head too.
+For example, a review of experimental studies found that aloe vera could reduce the healing time of burns by around 9 days compared with conventional medication. It also helped prevent redness, itching, and infections.
 
-Technique: Move to the edge of the bed and lie back with your head and shoulders on the floor as your partner straddles you. The blood will rush to your head creating mind-blowing sensations upon orgasm."</string>
-    <string name="pos_8" formatted="false">"Also known as: Over Your Shoulder, The Hamstring Stretch
+The evidence for aloe vera helping heal other types of wound is inconclusive, but the research is promising.
 
-Benefits: This is the best sex position for people who are particularly sensitive along one side of the clitoris.
 
-Technique: Kneel on the floor with your mate lying on the edge of the bed. Raise one of their legs and ask them to support it by wrapping their hands around their hamstring just below the knee. With one hip raised, your partner will be able to add some movement to aid in your stroking or to help move you to the perfect spot.
+ 4. It reduces dental plaque
 
-Also try: Encourage your partner to wriggle a little to help you get the rhythm right.
+Tooth decay and diseases of the gum are very common health problems. One of the best ways to prevent these conditions is to reduce the buildup of plaque, or bacterial biofilms, on the teeth.
 
-Hot tip: During oral sex, allow the knuckle of your finger to trail behind your tongue. The contrast between soft flesh of the tongue and hard bone of the finger will create a pleasing sensation. (For more oral pleasure positions, check out Your Ultimate Guide to Oral Sex.)
+In a mouth rinse study of 300 healthy people, researchers compared 100% pure aloe vera juice with the standard mouthwash ingredient chlorhexidine.
 
-Hot tip for her: Your partner can let you know the tongue pressure and technique they prefer by demonstrating with their mouth on your earlobe."</string>
-    <string name="pos_9" formatted="true">"Also known as: Woman On Top
+After 4 days of use, the aloe vera mouth rinse appeared to be just as effective as chlorhexidine in reducing dental plaque.
 
-Benefits: Puts your mate in control. Great for G-spot stimulation and your partner's orgasm.
+Another study found similar benefits of aloe vera mouth rinse over a 15- to 30-day period.
 
-Technique: Cowgirl is one of the best sex positions because it allows for a variety of interesting sights and sensations, and offers your partner the psychological advantage of taking charge of pace and depth of penetration. Alternate between shallow and deep thrusts. "Shallow will stimulate the front third of the vagina, which is the most sensitive," says sex therapist Rebecca Rosenblat, author of Seducing Your Man.
+Aloe vera is effective in killing the plaque-producing bacterium Streptococcus mutans in the mouth, as well as the yeast Candida albicans.
 
-Also try: Lie chest to chest, with your partner stretching their legs out on top of your legs. Your partner should brace their feet on the tops of yours and push off to create a rocking motion that will rub the vulva and clitoral area against your pubic bone for greater pleasure.
 
-Hot tip: It will be easier for your partner to climax if you stimulate them manually and orally until they're extremely aroused. From the cowgirl position, have them squat over your face so you can pull off some oral stimulation."</string>
-    <string name="pos_10" formatted="false">"Also known as: The Love Seat, The Man Chair
+5. It helps treat canker sores
 
-Benefits: Good G-spot stimulation.
+Many people experience mouth ulcers, or canker sores, at some point in their lives. These usually form underneath the lip, inside the mouth, and last for about a week.
 
-Technique: Sit on the edge of the bed or on a chair with your feet on the floor. Your mate turns away and backs up onto you, sitting between your legs. They can ride back and forth by pushing off the chair arms or pressing up with their feet. They can control the angle of entry by arching their back and pressing their buttocks into your groin. While doggy style is about your dominance, The Hot Seat puts your partner in the driver's seat. And that makes it one of the best sex positions for both of you.
+Studies have shown that aloe vera treatment can accelerate the healing of mouth ulcers.
 
-Also try: Your partner can reach under and stimulate the base of your penis, scrotum, and perineum. Meanwhile, you can reach around and stimulate their nipples."</string>
-    <string name="pos_11" formatted="false">"Also known as: Maytag Repair Man
+For example, in a 7-day study of 180 people with recurrent mouth ulcers, applying an aloe vera patch to the area was effective in reducing the size of the ulcers.
 
-Benefits: Extra vibes.
+However, it did not outperform the conventional ulcer treatment: corticosteroids.
 
-Technique: This is a variation on the Hot Seat with your partner sitting in your lap, but this time planting yourselves on top of a washing machine set at the highest agitator cycle."</string>
+In another study, aloe vera gel not only accelerated the healing of mouth ulcers, it also reduced the pain associated with them.
 
-    <string name="pos_12" formatted="false">"Also known as: Step Lively
 
-Benefits: Good hand holds for your partner, and you don't have to wait until reaching the bedroom.
+6. It reduces constipation
 
-Technique: This is a variation on the Hot Seat with your partner sitting on top of you while you sit on one of the stairs of a staircase. Stairs offer good seating possibilities, and a hand rail for extra support and lifting leverage for them."</string>
-    <string name="pos_13" formatted="true">"Also known as: Rodeo Drive, Half Way Around the World
+Aloe vera may also help treat constipation.
 
-Benefits: With a pillow under your head, you get an awesome view of your mate's backside. They can control depth of penetration and pace with this sex position.
+This time it is the latex, not the gel, that provides the benefits. The latex is a sticky yellow residue present just under the skin of the leaf.
 
-Technique: Lie on your back with your legs outstretched. Your partner kneels next to you, then turns and spreads their legs, straddling your hips and facing your feet. Kneeling, your partner lowers down onto your penis and begins riding you.
+The key compound responsible for this effect is called aloin, or barbaloin, which has well-established laxative effects.
 
-Also try: Have your partner lean forward or back to change the angle of the penis for greater stimulation.
+However, people have raised concerns about safety with frequent use. For this reason, aloe latex has not been available in the U.S. as an over-the-counter medication since 2002.
 
-Hot tip for her: From this position, your partner can easily reach down to touch themselves or direct your penis to where it feels best."</string>
-    <string name="pos_14" formatted="true">"Also known as: Thighmaster
+Contrary to popular belief, aloe vera does not appear to be effective against other digestive conditions, such as irritable bowel syndrome or inflammatory bowel disease. Learn more here.\n\n
 
-Benefits: Dual stimulation for your partner; for you—a great view of their rear and your penis entering them.
 
-Technique: Lie on your back and bend one of your legs, keeping the other outstretched. Your partner straddles the raised leg with a thigh on either side and lowers themselves onto your member so that their back is facing you. They should hold your knee and use it for support as they rock up and down.
+7. It may improve skin and prevent wrinkles
 
-Also try: They can press their vulva hard against your upper thigh rubbing as the feeling dictates.
+There is some preliminary evidence to suggest that topical aloe vera gel can slow aging of the skin.
 
-Hot tip for her: From Pole Position, your partner can massage your raised leg during the action. Or reach down and touch your perineum."</string>
-    <string name="pos_15" formatted="false">"Also known as: The Lap Dance
+In a 2009 study of 30 females over the age of 45, taking oral aloe vera gel increased collagen production and improved skin elasticity over a 90-day period.
 
-Benefits: Allows for face-to-face intimacy; cozy for long sessions.
+Reviews also suggest that aloe vera could help the skin retain moisture and improve skin integrity, which could benefit dry skin conditions.
 
-Technique: Sit on a chair or the edge of the bed. Your partner then faces you, wraps their arms around your back, climbs on top, and sits on your lap. Once in the saddle, they can ride up and down on your penis by pressing with their legs or knees. Want to go faster? Assist by grabbing their buttocks and lifting and bouncing.
 
-Also try: Your mate can sit astride facing you on a rocking chair. Old wooden rockers on hardwood or stone floors provide the greatest variety of good vibes.
 
-Hot tip: There's lots of room for creativity in this position for stimulating erogenous areas of the upper body, head, neck, and face. If they like to have their nipples licked, go for it!"</string>
-    <string name="pos_16" formatted="false">"Also known as: The Squat Thrust
+8. It lowers blood sugar levels
 
-Benefits: Puts them in control, maintains intimacy.
+People sometimes use aloe vera as a remedy for diabetes. This is because it may enhance insulin sensitivity and help improve blood sugar management.
 
-Technique: Place pillows behind your back and sit on the bed with legs outstretched. Your partner straddles your waist, feet on the bed. They then bends their knees to lower themselves onto you, using one hand to direct your penis in. Just by pressing on the balls of their feet and releasing, they can raise and lower themselves on your shaft as slowly or quickly as they please.
+For example, a review of eight studies found that aloe vera could have benefits for people with prediabetes or type 2 diabetes due to its effects on glycemic control.
 
-Also try: From this position, you both lie back into the Spider position or its more challenging variation, The X."</string>
-    <string name="pos_17" formatted="false">"Also known as: Trick &amp; Treat
+However, the quality of the existing studies is not ideal, so scientists do not currently recommend using aloe vera for this purpose.
 
-Benefits: This sex position is the piece de resistance for partners who prefer a strong, upward stroking motion.
 
-Technique: Place a pillow under their hips to tilt their pelvis up. Bend their knees so they can place their feet on your shoulder blades.
+Risks
 
-Also try: Amplify your oral efforts with a simple sleight-of-hand trick: While you lap away, try using your hands to push gently upward on their abdomen, stretching their skin away from their pubic bone, and helping to coax the head of the clitoris out from beneath the hood.
+Aloe vera is a safe remedy with few known side effects.
 
-Hot tip: Let your tongue rest firmly and flat against the full length of the vaginal entrance, then have them move and grind against your tongue."</string>
-    <string name="pos_18" formatted="false">"Also known as: Lazy Girl
+The National Center for Complementary and Integrative Health (NCCIH) say that topical use is likely safe.
 
-Benefits: The ultimate sex position for oral on the go, use this to get your mate in the mood and help them cut loose.
+That said, the oral use of aloe vera may cause stomach cramps or diarrhea due to its laxative effects. There have also been some reports of liver damage associated with long-term aloe vera supplement use.
 
-Technique: Have your partner sit on a chair with their legs wide open. You take it from there. This is a good sex position for either beginning the slow build-up with loose, broad, strokes, or ending with strong suction. Your partner is able to easily guide you, and they're able to get a full view of you between her legs, which is a turn-on for many people.
+The NCCIH also report that nondecolorized whole leaf extract of aloe vera seems to be associated with cancer risk in rats.
+Summary
 
-Also try: Switch to a swivel chair and turn it left and right as you hold your tongue stationary.
+Aloe vera has a range of therapeutic properties, especially as an ointment for the skin and gums.
 
-Hot tip: Insert your index and ring fingers and stroke in a "come hither" motion to wake up their G-spot using this sex position. With either your tongue or other hand, apply pressure to their pubic bone. This dual stimulation executed just right will send your partner over the edge."</string>
-    <string name="pos_19" formatted="false">"Benefits: A variation of One Up that allows for slow buildup.
+People can use bottled aloe vera gel or take it directly from the leaf of an aloe plant. Aloe vera juice has different uses to aloe vera gel.
 
-Technique: Some people with vulvas find direct clitoral stimulation uncomfortable. Having your mate close their legs during oral sex may help. Place your hand above their public mound applying light pressure, then rub your firm tongue on the area around the clitoris to add indirect stimulation.
+Oral options should contain decolorized whole leaf extract of aloe vera to minimize risk.
 
-Hot tip: During oral sex allow the knuckle of your index finger of your free hand to trail behind your tongue. The contrast between the soft flesh of the tongue and hard bone of the finger will create a pleasing sensation."</string>
-    <string name="pos_20" formatted="false">"Also known as: The Pretzel Dip, The Camel Ride
-
-Benefits: The deep penetration of doggy-style while face to face.
-
-Technique: Kneel and straddle their left leg while they're lying on their left side. Your partner will bend their right leg around the right side of your waist, which will give you access to enter their vagina. For many people with vulvas, rear entry hurts their backs. This sex position allows them to lounge comfortably while enjoying deep penetration.
-
-Also try: Manually stimulate them using your fingers. Or withdraw your penis and, holding the shaft with your left hand, rub the head against their clitoris to bring them to the brink of orgasm. You can reinsert when they want you back inside.
-
-Hot tip: Be gentle with the clitoris. It's more sensitive than your penis, so touch lightly at first. Some people even prefer gentle pressure around it rather than direct stimulation. Go soft, then increase speed and pressure.
-
-Hot tip for her: And ask them to direct you, faster, slower, lighter, harder."</string>
-
-    <string name="pos_21" formatted="false">"Also known as: The Shoulder Holder, The Anvil
-
-Benefits: Allows deep penetration and targeting the G-spot
-
-Technique: Your partner lies on their back. You kneel between their legs and raise them, resting their calves over your shoulders. Rock them in a side-to-side and up-and-down motion to bring the head and shaft of your penis in direct contact with the front wall of their vagina. Because this angle allows for deep penetration, thrust slowly at first avoid causing discomfort.
-
-Also try: Bring their legs down and have them place their feet on your chest in front of your shoulders. This allows your partner to control the tempo and depth of thrusts.
-
-Hot tip: Notice your partner nearing orgasm. You do that by listening for their breath to become short and shallow. Flushed skin and slightly engorged breasts also indicate they're nearing the peak of her arousal."</string>
-    <string name="pos_22" formatted="true">"Also known as: Doggy-Style
-
-Benefits: Deep penetration and an erotic view.
-
-Technique: This could be your next move after starting in The Flatiron sex position. Entering your partner from behind, you'll be able to thrust deep so the tip of your penis touches their cervix, an often-neglected pleasure zone. But you should do this slowly and gently. Some people with vulvas find it painful.
-
-Hot tip for her: They may be able to increase the intensity of your orgasm by pushing their pelvic floor muscles outward, as if trying to squeeze something out of their vagina. This causes the vaginal walls to lower, making the G-spot more accessible."</string>
-
-    <string name="pos_23" formatted="true">"Also known as: Downward Dog, The Belly Flop
-
-Benefits: Intensifies vaginal pleasure.
-
-Technique: Your partner lies face down on the bed, knees slightly bent and hips slightly raised. For comfort, and to increase the angle of their hips, they can place a pillow under their lower abs. You enter them from behind and keep your weight off their body by propping yourself up with your arms. This position creates a snug fit, making you feel larger to your partner.
-
-Also try: You'll last longer in this position if you switch to shallower thrusts and begin deep breathing.
-
-Hot tip: Less friction means less stimulation—and can help you last longer. Try using a very slippery silicon-based lubricant, which may allow you to thrust longer before reaching orgasm."</string>
-    <string name="pos_24" formatted="true">"Also known as: Squat Thruster
-
-Benefits: An extra rush of blood to your partner's head to increase their ecstasy.
-
-Technique: Have your partner lie on their back with their legs raised over their head. This is not a plain Jane position! Squat over them and dip your penis in and out of them. Be extra careful to thrust lightly to avoid stressing their neck.
-
-Also try: By removing yourself fully, you'll give your partner the extremely pleasurable feeling of you first entering them over and over again.
-
-Hot tip: Novelty ignites passion by increasing your brain's levels of dopamine, a neurotransmitter linked to romance and sex drive, says biological anthropologist Helen Fisher, PhD. The Butter Churner qualifies for novelty, but you don't need to go to such extremes to sustain romance. Anything that's new and different will do the trick."</string>
-    <string name="pos_25" formatted="true">"Also known as: Get a Leg Up
-
-Benefits: Erotic move for quickies in tight quarters. Good option for outdoor sex. Allows for easier penetration. Your partner has control of thrusting, depth, and angle.
-
-Technique: You stand facing one another. Your partner raises one of their legs up and wraps it around your buttocks or thigh and pulls you into them with their leg.
-
-Also try: If that wrapped leg gets tired, cradle it with your arm. If your mate's very flexible, lift their leg over your shoulder.
-
-Hot tip: Try this standing position in a hot shower. During the steamy foreplay, rub each other's entire body with a coarse salt scrub to stimulate nerve endings and blood flow."</string>
-    <string name="pos_26" formatted="true">"Also known as: The Bicycle
-
-Benefits: You can enjoy the view of your penis thrusting.
-
-Technique: Stand at the edge of a bed or desk while your partner lies back and raises their legs to their chest. Their knees are bent as if they\'re doing a "bicycling" exercise. Grab their ankles and enter them. Thrust slowly, as the deep penetration may be painful for them.
-
-Also try: Have your partner place their heels on your shoulders, which will open their hips so their labia press against you.
-
-Hot tip for her: Encourage your partner to play with their clitoris manually. Also, show them that they can control your penetration by flexing their thighs."</string>
-    <string name="pos_27" formatted="true">"Also known as: Kitchen Confidential
-
-Benefits: Good sex position for a quickie with deep penetration.
-
-Technique: A variation of The Ballet Dancer in which your partner raises their legs up and wraps them around your butt or thighs. Your kitchen counter is the perfect height for this standing-to-seated appetizer.
-"</string>
-    <string name="pos_28" formatted="true">"Also known as: Aquaman\'s Delight
-
-Benefits: Good for an outdoors quickie, while still avoiding prying eyes.
-
-Technique: Another variation of The Ballet Dancer. Your partner\'s buoyancy in the water makes this sex position easier to hold. And all you need to do is shift some bathing suit material out of the way of certain body parts; the lifeguards will be none the wiser."</string>
-
-    <string name="pos_29" formatted="true">"Also known as: The Hoover Maneuver
-
-Benefits: Calorie burner because it\'s so athletic. You can stroll around the house in this position, but draw the shades first.
-
-Technique: You enter your partner as you would in standing, rear entry, but lift them up by the pelvis and have them grip your waist with their legs. Summer camp wheelbarrow races were never this much fun!
-
-Also try: Ask them to rhythmically squeeze their PC muscles to help them climax."</string>
-
-    <string name="pos_30" formatted="true">"Also known as: Wheelbarrow At Rest
-
-Benefits: Less strenuous than the standing varieties of this sex position, while still offering intense sensation.
-
-Also try: Try the wheelbarrow while sitting on the edge of a bed or chair. Movement is limited, but penetration is deep.
-
-Hot tip: Make some noise. Explore the deeper sexual response and energy by letting loose with powerful sounds, a roar, perhaps?"</string>
-
-
-    <string name="pos_31" formatted="true">"Also known as: Crouching Tiger, Hidden Serpent
-
-Benefits: An ideal position for G-spot stimulation. Seeing the round curves of your partner\'s rear tends to be highly erotic for you.
-
-Technique: Stand and enter your partner from behind as they pose on all fours on the edge of the bed and arch their back to lift their buttocks.
-
-Also try: With your legs outside of theirs, use your thighs to squeeze their knees together, which tightens their vagina around your penis."</string>
-
-
-    <string name="pos_32" formatted="true">"Also known as: Drop the Soap
-
-Benefits: Good for a quickie at a party.
-
-Technique: Slip into a bathroom and ask them to look into the mirror while you enter them from behind. It lets you have eye contact during the G-spot-targeting rear-entry sex position."</string>
-
-
-    <string name="pos_33" formatted="true">"Also known as: The Lazy Susan
-
-Benefits: Convenient for a quickie and adds spice outside the bedroom.
-
-Technique: Ask your partner to bend her body over the arm of a couch as you enter them from behind. They can grind on the firm but cushy arm for multiple stimulation with minimal effort.
-
-Also try: Have them cross their ankles. This will squeeze their vaginal and gluteal muscles tightly around your penis."</string>
-
-
-    <string name="pos_34" formatted="true">"Also known as: The Bends
-
-Benefits: Greater thrusting power, and good for quickie sex in your kitchen, especially if your partner is wearing a skirt.
-
-Technique: Ask them to bend at the waist and rest their hands on a piece of furniture, their knees or the floor for support. You enter them from behind and hold their hips for support as you thrust.
-
-Also try: Reach below to caress their clitoris for extra stimulation.
-
-Hot tip: Massage their shoulders or stimulate their breasts by bending over them."</string>
-
-    <string name="pos_35" formatted="true">"Also" known as: The Pushup
-
-Benefits: Creates great eye-to-eye contact. Keeps your weight off her bod.
-
-Technique: There\'s a reason people swoon when they see a six pack. They know a man with strong abs is going to be great in the sack. The mountain climber position shows off your strength and hard abs (if you have them). While between your partner\'s legs, assume the standard "up" sex position.
-
-Also try: Lower yourself to kiss your partner teasingly while thrusting with your shoulders as well as your pelvis.
-
-Hot tip: Tease them with a series of moves: by entering with just the tip; thrusting just halfway in; then removing yourself and stroking their outside with your member. They can reach down and grab your shaft and rub their clitoris with it."</string>
-
-
-
-    <string name="pos_36" formatted="true">"Also known as: The Pillow Driver
-
-Benefits: A little bit of variety if missionary begins to feel stale; good upper body exercise.
-
-Technique: Place a pillow under the small of their back or their buttocks to tilt their pelvis and change the angle of your penetration for different sensations. Bracing yourself with your hands on the bed as in a pushup position, you take your weight off their body."</string>
-
-
-    <string name="pos_37" formatted="true">"Also known as: The Matrimonial, Male Dominant
-
-Benefits: Lots of eye and body contact.
-
-Technique: The most commonly used position in the world, the missionary is an especially intimate position allowing for face-to-face contact. You like it because you can control penetration depth and speed of thrusting. Your partner enjoys feeling your weight on their body, and the maximum skin-to-skin contact. Note that this position can make it more difficult to hold off ejaculation because of the intense friction and deep thrusting. To lengthen lovemaking, start there then switch to a position that maintains clitoral pressure without so much pelvic back and forth.
-
-Also try: Push up to create space in between you to sneak a small vibrator down for buzzing the top of their mound.
-
-Hot tip: Raise their left leg so their knee is level with your right shoulder. Keep their other leg flat on the bed. Thrust toward the inner thigh of their raised leg. This adjustment forces tighter penetration and more clitoral pressure."</string>
-
-
-    <string name="pos_38" formatted="true">"Also known as: The Sleeper Hold
-
-Benefits: Comfortable sex position if your partner is pregnant or you\'re heavy. Also ideal for long lovemaking. Good one for falling asleep afterward.
-
-Technique: You both lie on your sides facing the same direction, you in back. Your partner bends their knees and pushes their rear back toward you for easier access to their vagina. Adjusting the lean of your bodies will vary the angle of entry and help with rocking and thrusting.
-
-Also try: Synchronize your breathing. One of you takes the lead and the other follows so that you inhale and exhale together. The coordinated rhythm opens an unspoken dialogue of intimacy.
-
-Hot tip: To give them the sensation of greater width inside them, from the Spoon position have them bend and lift their top leg to their breasts. Adjust your position so you are more on top of them top hip than behind them."</string>
-
-
-
-    <string name="pos_39" formatted="true">"Also known as: Spoon and Fork Combo, Scissoring
-
-Benefits: Offers a natural bridge to more creative positions.
-
-Technique: Your partner lies on their back, and raises their right leg so you can position yourself between their legs at a 90-degree angle and enter. Their legs will form the tines of a spork, a spoon-and-fork utensil. They can do this with you facing them or facing their back.
-
-Also try: If your mate is limber, lift their left leg up to increase the depth of penetration.
-
-Hot tip for her: From the Spork position, have them lift their top leg and support it by resting it on your shoulder. From here, they can easily stimulate their clitoris using their fingers while you're inside them."</string>
-
-
-
-    <string name="pos_40" formatted="true">"Also known as: The Horny Mantis
-
-Benefits: Relaxing position with deeper penetration and increased intimacy.
-
-Technique: Both of you lie on your sides facing one another. Your partner bends and spreads their legs, and angles their vagina toward you. You lift your legs between theirs to enter while they wrap their legs around your back.
-
-Also try: They can use their legs and feet to pull you close during thrusts for deeper penetration."</string>
-
-
-
-    <string name="pos_41" formatted="true">"Also known as: Sidewinder
-
-Benefits: A very intimate face-to-face position that encourages hugging and kissing.
-
-Technique: This is an ideal position if your partner is pregnant or either one of you had a knee injury because it keeps weight off the body. To get into the position, begin by lying on your sides and facing one another. Your partner spreads their legs slightly to allow you to enter them, then closes their legs so the part of your shaft that\'s outside can press against their clitoris. It's easy to kiss from this intimate face-to-face position.
-
-Also try: Because thrusting is more difficult in this position, use different techniques such as grinding, circular, and up-and-down motions for added stimulation.
-
-Hot tip: Hug eachother for 20 seconds before getting busy. Hugging raises your levels of oxytocin, a bonding hormone your body produces naturally, and that will enhance your connection."</string>
-
-
-    <string name="pos_42" formatted="true">"Also known as: Crisscross
-
-Benefits: Prolonged slow sex to build arousal. Shallow thrusts stimulate the nerve endings in the head of your penis.
-
-Technique: Sit on the bed facing each other with legs forward. Lift your right leg over their left and they lift their right leg over your left. Come together so you can enter. Now both of you lie back, with your legs forming an X. Slow, leisurely gyrations replace thrusting.
-
-Also try: Reach out and hold hands to pull together for pelvic thrusting. Also, take turns alternatively sitting up and lying back without changing the rhythm."</string>
-
-
-    <string name="pos_43" formatted="true">"Also known as: Bottom\'s Up
-
-Benefits: They gets a prime view of your derriere.
-
-Technique: This is challenging: Your partner lies on their back while you straddle them facing away. They lift their legs and wrap them around your back to elevate their pelvis so you can enter. They then grab your butt to help you slide up and back. They can add a little massage action to their grip also.
-
-Hot tip: Spin around into missionary style to face them while trying to stay inserted. Then switch positions, this time with them on top and facing away."</string>
-
-
-    <string name="pos_44" formatted="true">"Also known as: Getting a Leg Up
-
-Benefits: Quicker orgasms for your partner; easier motions.
-
-Technique: From The Spider, your partner can lift their legs onto your shoulders, which increases the muscular tension that advances the orgasm sequence. By elevating their butt off the bed, it'll be easier for them to thrust and grind in circles."</string>
-
-
-    <string name="pos_45" formatted="true">"Benefits: You both can still maintain eye contact while viewing the action at center stage.
-
-Technique: Both of you are seated on the bed with legs toward one another, arms back to support yourselves. Now move together and they move onto you. Their hips will be between your spread legs, their knees bent and feet outside of your hips and flat on the bed. Now rock back and forth.
-
-Also try: They grab your hands and pull themselves up into a squatting position while you lie back. Or you can remain seated upright and pull them against your chest into the Lazy Man position.
-
-Hot tip: Help turn them on by straddling their bottom and massaging their back. While you're busy with your hands, they can wiggle, grind, and move their mons pubis in a circular motion against the sheets to stimulate the clitoris."</string>
-
-    <string name="pos_46" formatted="true">"Also known as: The Face Sitter
-
-Benefits: They can direct the position of your tongue and the pressure against them by rising up or pressing down.
-
-Technique: Your partner straddles you placing their knees at your ears. They can hold onto a wall or headboard for support. While you\'re doing your thing, they can use their fingers to graze their nipples or rub the top of their vulva.
-
-Also try: Hold your tongue firm as they gyrate their hips, pressing their clitoris against it."</string>
-
-    <string name="pos_47" formatted="true">"Also known as: Inverted 69, Over and Under
-
-Benefits: Simultaneous oral pleasure.
-
-Technique: When they\'re on top in 69, they can control the intensity of oral stimulation on their clitoris by lifting or pressing their pelvis. From this position it\'s easy to work their finger magic on your perineum, the sensitive area just below your testicles. Also try the man-on-top position.
-
-Also try: Roll over onto your sides in the 69 sex position.
-
-Hot tip for her: Place a cup of warm tea and an ice cube on the nightstand near the bed. When they give you oral sex, they can alternate placing the ice cube then the tea in their mouth."</string>
-
-    <string name="pos_48" formatted="true">"Also known as: Hovering Dragonfly
-
-Benefits: A comfortable position for your partner. An erotic one for you.
-
-Technique: Rest a pillow behind their head, then straddle their shoulders. Support yourself by holding the bed\'s headboard or the wall.
-
-Hot tip for her: If your partner's mouth becomes dry after awhile, they can add some mint- or fruit-flavored lube to your shaft."</string>
-
-
-    <string name="pos_49" formatted="true">"Also known as: The Bees Knees
-
-Benefits: Great for out-of-bedroom fellatio.
-
-Technique: Your partner kneels in front of you, covering their teeth with their lips and encircling your glans with their mouth. They then slowly piston their lips up and down on your shaft, alternating speeds and occasionally stopping to move their tongue over and around your head.
-
-Also try: Lean a dressing mirror against a wall to the side of your body so you can enjoy the view of your partner going down on you from the side versus top down.
-
-Hot tip for her: For variation, they can take one of your testicles into their mouth as they stroke the shaft with their hand."</string>
-
-
-    <string name="pos_50" formatted="true">"Also known as: Romper Room
-
-Benefits: See The Hot Seat. Also, adds bounce to your thrusts.
-
-Technique: Have a ball in your workout room? Use a stability ball to add some bounce to The Hot Seat. Sit on the ball with your feet on the floor. Have your partner back up onto you, sitting between your legs. Roll and bounce to it. "</string>
+A person should always speak to a doctor before using aloe products to treat a condition."</string>
 
     <string name="title_activity_details">DetailsActivity</string>
     <string name="large_text">
