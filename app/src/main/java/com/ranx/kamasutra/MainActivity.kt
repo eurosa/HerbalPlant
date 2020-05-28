@@ -66,7 +66,18 @@ class MainActivity : AppCompatActivity() , NavigationView.OnNavigationItemSelect
         lvCards.adapter = adapter
         adapter.addAll(
             CardModel(R.drawable.aloevera, R.string.alovera, R.string.alovera_details),
-           CardModel(R.drawable.tulsi, R.string.tusli, R.string.tulsi_details)
+            CardModel(R.drawable.tulsi, R.string.tusli, R.string.tulsi_details),
+            CardModel(R.drawable.triphala_s, R.string.triphala, R.string.triphala_details),
+            CardModel(R.drawable.ashoka, R.string.ashoka, R.string.ashoka_details),
+            CardModel(R.drawable.triphala, R.string.triphala, R.string.triphala_details),
+            CardModel(R.drawable.triphala, R.string.triphala, R.string.triphala_details),
+            CardModel(R.drawable.triphala, R.string.triphala, R.string.triphala_details),
+            CardModel(R.drawable.triphala, R.string.triphala, R.string.triphala_details),
+            CardModel(R.drawable.triphala, R.string.triphala, R.string.triphala_details),
+            CardModel(R.drawable.triphala, R.string.triphala, R.string.triphala_details),
+            CardModel(R.drawable.triphala, R.string.triphala, R.string.triphala_details),
+            CardModel(R.drawable.triphala, R.string.triphala, R.string.triphala_details)
+
             )
 
         val toolbar: Toolbar = findViewById(R.id.toolbar)
