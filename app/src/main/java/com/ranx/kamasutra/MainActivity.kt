@@ -72,11 +72,11 @@ class MainActivity : AppCompatActivity() , NavigationView.OnNavigationItemSelect
             CardModel(R.drawable.garlic, R.string.garlic, R.string.garlic_details),
             CardModel(R.drawable.chamomile, R.string.chamomile, R.string.chamomile_details),
             CardModel(R.drawable.ginseng, R.string.ginseng, R.string.ginseng_details),
-            CardModel(R.drawable.triphala, R.string.triphala, R.string.triphala_details),
-            CardModel(R.drawable.triphala, R.string.triphala, R.string.triphala_details),
-            CardModel(R.drawable.triphala, R.string.triphala, R.string.triphala_details),
-            CardModel(R.drawable.triphala, R.string.triphala, R.string.triphala_details),
-            CardModel(R.drawable.triphala, R.string.triphala, R.string.triphala_details)
+            CardModel(R.drawable.nutmeg, R.string.nutmeg, R.string.nutmeg_details),
+            CardModel(R.drawable.chocolate, R.string.chocolate, R.string.chocolate_details),
+            CardModel(R.drawable.gotucola, R.string.gotucola, R.string.gotucola_detaisl),
+            CardModel(R.drawable.ashwagandha, R.string.ashwagandha, R.string.ashwagandha_details),
+            CardModel(R.drawable.artichok, R.string.artichoke, R.string.artichoke_details)
 
             )
 
