@@ -176,6 +176,13 @@ class MainActivity : AppCompatActivity() , NavigationView.OnNavigationItemSelect
                 //e.toString();
             }
         }
+
+        if(id==R.id.nav_about){
+            popAbout()
+
+        }
+
+
         if (id == R.id.nav_send) {
             try {
                 startActivity(
@@ -201,6 +208,21 @@ class MainActivity : AppCompatActivity() , NavigationView.OnNavigationItemSelect
        drawerLayout!!.closeDrawer(GravityCompat.START)
         return true
     }
+    fun popAbout() {
+        // An activity may have been overkill AND for some reason
+        // it appears in the task switcher and doesn't allow returning to the
+        // emergency configuration mode. So a dialog is better for this.
+        //IntroActivity.open(FreeButtonActivity.this);
+        val messages = arrayOf(
+            "Rai Infifinity System",
+            "Website:https//:xcosmos.xyz"
+        )
+
+        // inverted order - They all popup and you hit "ok" to see the next one.
+        //  popup("3/3", messages[2]);
+        popup("2/2", messages[1])
+        popup("1/2", messages[0])
+    }
 
 
     fun popupHelp() {
@@ -209,7 +231,7 @@ class MainActivity : AppCompatActivity() , NavigationView.OnNavigationItemSelect
         // emergency configuration mode. So a dialog is better for this.
         //IntroActivity.open(FreeButtonActivity.this);
         val messages = arrayOf(
-            "Welcome to kama Sutra Sex Position",
+            "Welcome to herbal medicinal plants application",
             "To Read Details Click on Listed Item."
         )
 

@@ -13,9 +13,10 @@
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Rate us</string>
+    <string name="menu_about">About us</string>
 
-    <string name="alovera">"ALovera \n\n What are the benefits of aloe vera?"</string>
-    <string name="tusli">"Tusli \n\n The Health Benefits of Holy Basil"</string>
+    <string name="alovera">"ALovera ,What are the benefits of aloe vera?"</string>
+    <string name="tusli">"Tusli , The Health Benefits of Holy Basil"</string>
     <string name="triphala">"Top 20 Benefits of Triphala Churna (Powder)"</string>
     <string name="ashoka">"10 AMAZING Uses Of Ashoka Tree Will Leave You Shellshocked!"</string>
     <string name="garlic">"8 Surprising Health Benefits of Garlic "</string>
